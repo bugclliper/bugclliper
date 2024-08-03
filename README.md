@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm BECHARJI THAKOR 👋
 
-<!--
-**bugclliper/bugclliper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am the Founder & CEO of Whitenets, specializing in cybersecurity and penetration testing. I lead a team dedicated to mitigating security risks and enhancing application security for organizations.
 
-Here are some ideas to get you started:
+## Skills
+- **Penetration Testing**
+- **Vulnerability Assessment**
+- **Risk Management**
+- **Web Application Security**
+- **Network Security**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Private Projects
+- **Custom Penetration Testing Solutions**: Tailored solutions for specific client needs (contact for details).
+
+## Connect with Me
+🔗- **LinkedIn**: [BECHARJI THAKOR](https://www.linkedin.com/in/pentester-bechar-thakor-appsec/)
+
+🐦- **Twitter**: [bugclliper](https://x.com/bugclliper)
+
+Feel free to reach out for collaborations or inquiries!
